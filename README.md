@@ -1,0 +1,2 @@
+# quotes
+Static Website
